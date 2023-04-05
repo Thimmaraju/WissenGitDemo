@@ -5,6 +5,11 @@ class DashBoardPage{
         return "Dashboard"
     }
 
+    
+    newmethod(){
+
+        return "kfnlwjmf"
+    }
 
 }
 

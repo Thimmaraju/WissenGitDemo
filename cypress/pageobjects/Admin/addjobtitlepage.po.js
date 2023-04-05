@@ -2,7 +2,7 @@ class AddJobTitlePage{
 
     adminmenu(){
 
-        return "Admin"
+        return "Admin123"
     }
 
     submenuitems(){
