@@ -1,0 +1,9 @@
+{
+    "username" : "Admin",
+    "password": "admin123",
+    "invalidusername": "jfnknfkub",
+    "invalidpassword": "bfihqdfiuhiuou",
+    "dashboardurl":"https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index",
+    "partialdashboardurl":"/web/index.php/dashboard/index"
+
+}
