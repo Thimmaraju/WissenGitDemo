@@ -7,7 +7,7 @@ module.exports = defineConfig({
 
     "baseUrl":"https://opensource-demo.orangehrmlive.com",
     //"videosFolder": "cypress/Raju",
-    "video" :true,
+    //"video" :true,
     "projectId": "9xbn7x",
     "specPattern": "**/*.feature",
     "videoCompression" : 0,
